@@ -1,0 +1,45 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : 14.Tem.2015, 16:00:54
+    Author     : Deniz
+*/
+#header
+{
+    border:2px solid black;
+    text-align: center;
+    height: 70px;
+}
+
+#govde
+{
+    border:2px solid black;
+    height: 600px;
+    margin-top: 5px;
+    
+}
+
+
+#menu
+{
+    border:2px solid black;
+    height: 500px;
+    width: 30%;
+    margin-top: 10px;
+    float: left;
+    margin-right: 5px;
+    font-size: 20px;
+}
+
+#content
+{
+    border:2px solid black ;
+    height: 500px;
+    margin-top: 10px;
+    float: left;
+    width: 69%;
+    font-size: 20px;
+}
