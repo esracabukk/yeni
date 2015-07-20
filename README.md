@@ -1,1 +1,0 @@
-biz burda geliştirme yapıcaz
