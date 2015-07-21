@@ -13,6 +13,7 @@
     .....burayı da yönetici değiştirdi......
         <description>Builds, tests, and runs the project jsfDemo.</description>
     <import file="nbproject/build-impl.xml"/>
+    esra yeni bir değişiklik yaptı_?
         <description>Builds, tests, and runs the project jsfDemo.</description>
     <import file="nbproject/build-impl.xml"/>
     <!--
