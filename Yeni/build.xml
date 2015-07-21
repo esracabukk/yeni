@@ -15,6 +15,7 @@
     <import file="nbproject/build-impl.xml"/>
         <description>Builds, tests, and runs the project jsfDemo.</description>
     <import file="nbproject/build-impl.xml"/>
+    yönetici yeni değişiklik yaptı.___________--
     <!--
 
     There exist several targets which are by default empty and which can be 
